@@ -1,0 +1,13 @@
+.root {
+   -fx-font-family: monospace;
+   -fx-font-size: 12pt;
+}
+
+.label {
+   -fx-font-weight: bold;
+   -fx-border-style: solid;
+   -fx-border-color: darkgray;
+}
+
+.radio-button {
+}
